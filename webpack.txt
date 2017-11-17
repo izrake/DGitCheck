@@ -1,0 +1,13 @@
+************************************************************************************************************
+                                                   NOTE
+************************************************************************************************************
+
+-web pack helps in minifying code.
+-It helps in managing the code.
+
+Total Exp: 1 yr 2 months, Total Exp In Prima: 9 months, CTC: 
+
+        var heights = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        var max = heights.Max();
+        var count = heights.Count(it => it == max);
+        Console.WriteLine(count);
